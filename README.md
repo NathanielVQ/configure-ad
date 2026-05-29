@@ -381,5 +381,3 @@ Look for the **Remote Access** policy under Applied Group Policy Objects.
 
 After the Group Policy is updated, restart the client machine. Afterwards, any of the Employees within the Remote Users group should be able to log on to the client.
 
-
-<img width="1114" height="589" alt="Screenshot 2026-05-05 at 9 33 15 PM" src="https://github.com/user-attachments/assets/be907a1b-0cd0-4ecc-b191-1133452ad9b5" />
